@@ -1,1 +1,3 @@
 # AlgorithmicPython
+
+Shattered algo dreams
