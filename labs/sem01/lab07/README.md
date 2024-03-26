@@ -10,7 +10,7 @@
 При этом один "тик" времени — одна перестановка элементов массива. (То есть реальную скорость сортировки визуализации не вполне отражают 🙃 Например, никак не выделено время поиска минимального элемента при сортировке выбором.)
 
 <p align="center">
-   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZtdDY0anBkOXBxcG5qMnFjMzAxd2F3Y2tmdTQxbmhhM2phZno5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZRf40gc0PK61rKmM5/source.gif">
+   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgydmdoeWJzaXhudHFobHBwdnMyc2xkcjZ6ajYxcXl5cXlubW1mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZRf40gc0PK61rKmM5/giphy.gif">
      <img src="./images/gif/panda_selection_50_lossy_35_width_400.gif" alt="Selection Sort View of Moscow Panda Katyusha" title="Katyusha & Selection Sort" />
    </a>
 </p>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEwczdqcW1vaHppbm5qeHM0Z3Q4Y3pzcThydXZ2ZTVoNzBzbHJ5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OoRRyQdv5vU5KF0NIZ/source.gif">
+   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGcxb2UxeG5ibHBjY3c2eWk5cjQydDlhdTc1cHRjaTRqejhzaHQ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OoRRyQdv5vU5KF0NIZ/giphy.gif">
      <img src="./images/gif/panda_insertion_50_lossy_35_width_400.gif" alt="Insertion Sort View of Moscow Panda Katyusha" title="Katyusha & Insertion Sort" />
    </a>
 </p>
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW40cXgzZnI0ZDJhaHpudTFzNWVjZDY2azQ1cmdydGtzdmQ3cWNiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zA2PwQmMb3Ht8UnwG/source.gif">
+   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmZng3aXZ3ZXltOTFrdW9qdjE0Z3Z5NmdqZ2NuODltcXExbnJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zA2PwQmMb3Ht8UnwG/giphy.gif">
      <img src="./images/gif/panda_bubble_50_lossy_35_width_400.gif" alt="Bubble Sort View of Moscow Panda Katyusha" title="Katyusha & Bubble Sort" />
    </a>
 </p>
