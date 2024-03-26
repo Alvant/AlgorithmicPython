@@ -7,15 +7,15 @@
 
 нескольких методов сортировки на примере фотографии Катюши.
 
-При этом один "тик" времени — одна перестановка элементов массива. (То есть реальную скорость сортировки визуализации не вполне отражают 🙃 Например, никак не выделено время поиска минимального элемента при сортировке выбором.)
+Один "тик" времени — одна перестановка элементов массива.
 
 <p align="center">
-   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgydmdoeWJzaXhudHFobHBwdnMyc2xkcjZ6ajYxcXl5cXlubW1mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZRf40gc0PK61rKmM5/giphy.gif">
-     <img src="./images/gif/panda_selection_50_lossy_35_width_400.gif" alt="Selection Sort View of Moscow Panda Katyusha" title="Katyusha & Selection Sort" />
+   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E4b2Fkdnl4aGFsZnh4ZXVwd2ZxOGF2c3FhM2Y4N2N6d2J1Z3NtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b6N0CNliyGnwHxLZrq/giphy.gif">
+     <img src="./images/gif/panda_selection2_50_lossy_35_width_400.gif" alt="Selection Sort View of Moscow Panda Katyusha" title="Katyusha & Selection Sort" />
    </a>
 </p>
 <p align="center">
-  <em>Пример сортировки выбором.</em>
+  <em>Пример сортировки выбором (перестановка — каждый раз, когда находим элемент меньше текущего).</em>
 </p>
 
 <p align="center">
@@ -43,3 +43,18 @@
 
 * [Оригинал фото](https://caoinform.moscow/wp-content/uploads/sites/38/2024/01/030124-web-00005.jpg)
 * [Ещё один (возможно, "более официальный") источник фото](https://www.mskagency.ru/materials/3349843)
+
+
+
+## P.S.
+
+"Быстрая" версия сортировки выбором.
+
+<p align="center">
+   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgydmdoeWJzaXhudHFobHBwdnMyc2xkcjZ6ajYxcXl5cXlubW1mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZRf40gc0PK61rKmM5/giphy.gif">
+     <img src="./images/gif/panda_selection_50_lossy_35_width_400.gif" alt="Selection Sort View of Moscow Panda Katyusha" title="Katyusha & Selection Sort" />
+   </a>
+</p>
+<p align="center">
+  <em>Пример сортировки выбором (перестановка — только с минимальным).</em>
+</p>
