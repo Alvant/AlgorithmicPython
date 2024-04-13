@@ -45,6 +45,15 @@
   <em>Пример сортировки пузырьком.</em>
 </p>
 
+<p align="center">
+   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pmN3JpenpmbGZ2N2U4YW9veDJpdDU3dHNkdHV6d2p3djhwOWR6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09iGdjBgwdiJruD631/giphy.gif">
+     <img src="./images/gif/panda_cocktail_50_lossy_35_width_400" alt="Cocktail Shaker Sort View of Moscow Panda Katyusha" title="Katyusha & Cocktail Shaker Sort" />
+   </a>
+</p>
+<p align="center">
+  <em>Пример шейкерной сортировки.</em>
+</p>
+
 
 ## Ссылки
 
