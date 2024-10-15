@@ -1,3 +1,3 @@
-# Классы
+# Двоичное дерево поиска
 
-Лаба: https://cs.mipt.ru/algo/lessons/sem_2/lab04.html
+http://cs.mipt.ru/algo/lessons/sem_2/05.sort_tree.html.
