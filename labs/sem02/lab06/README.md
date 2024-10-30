@@ -1,3 +1,3 @@
-# Двоичное дерево поиска
+# Stack, Queue; Heap
 
-Лаба: https://cs.mipt.ru/algo/lessons/sem_2/lab05.html
+http://cs.mipt.ru/algo/lessons/sem_2/06.stack_queue_heap.html.
