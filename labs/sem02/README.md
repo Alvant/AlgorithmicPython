@@ -8,4 +8,5 @@
 * [Лаба 4](./lab04). Классы (ООП).
 * [Лаба 5](./lab05). Binary Search Tree (BST).
 * [Лаба 6](./lab06). Stack, Queue; Heap (LIFO, FIFO; Heapsort).
-* [Лаба 7](./lab07). Depth-First Search (DFS).
+
+* [Лаба 8](./lab08). Depth-First Search (DFS).
