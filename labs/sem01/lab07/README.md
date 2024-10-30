@@ -1,6 +1,6 @@
 # Сортировки
 
-Лаба: http://cs.mipt.ru/algo/lessons/sem_1/lab08.html
+Лаба: http://cs.mipt.ru/algo/lessons/sem_1/08.sorts.html.
 
 
 ## Визуализации
