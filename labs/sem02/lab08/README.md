@@ -1,6 +1,6 @@
 # DFS
 
-Лаба: https://cs.mipt.ru/algo/lessons/sem_2/lab07.html
+Лаба: http://cs.mipt.ru/algo/lessons/sem_2/08.graph_dfs.html.
 
 <p align="center">
    <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdqb3kwdXFicWc1YXlybmllMXN6OGVvNTk1ajNpaTZ4Y3l6dXozeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SjGxbUxyKxTh0kPsXr/giphy.gif">
