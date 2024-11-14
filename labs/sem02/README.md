@@ -11,3 +11,4 @@
 
 * [Лаба 8](./lab08). Depth-First Search (DFS).
 * [Лаба 9](./lab09). Breadth-First Search (BFS).
+* [Лаба 10](./lab10). Paths (Dijkstra, Bellman–Ford, Floyd–Warshall).
