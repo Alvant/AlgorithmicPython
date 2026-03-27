@@ -14,3 +14,7 @@
 * [Лаба 8](./lab08). Depth-First Search (DFS).
 * [Лаба 9](./lab09). Breadth-First Search (BFS).
 * [Лаба 10](./lab10). Paths (Dijkstra, Bellman–Ford, Floyd–Warshall).
+* Лаба 11. Spanning Trees (Prim, Kruskal).
+* [Лаба 12](./lab12). Stones (Game Theory).
+* Лаба 13. Generators.
+* Лаба 14. Decorators.
